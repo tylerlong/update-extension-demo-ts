@@ -26,7 +26,7 @@ rc.token = {access_token: process.env.RINGCENTRAL_ACCESS_TOKEN};
         lastName: 'Automated',
         company: 'Test',
         jobTitle: 'consultant',
-        email: 'valid.email@address.com',
+        email: 'valid.email.uniq.3421896@address.com',
         emailAsLoginName: true,
       },
       password: 'MyAwes0mePassw0rd',
